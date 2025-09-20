@@ -23,3 +23,6 @@
 * Correlation heatmap showing relationships between key metrics (Confirmed, Deaths, Active, New Cases)
 * Bar charts for top-performing countries in various categories
 * Comparative analysis of death rates vs recovery rates by country
+
+# Dataset 
+https://www.kaggle.com/datasets/imdevskp/corona-virus-report
