@@ -13,7 +13,8 @@
 * Global pandemic statistics (16.4M confirmed cases, 654K deaths, 9.4M recovered)
 * Calculated global death rate (3.97%) and recovery rate (57.47%)
 * Identified countries with highest confirmed cases, deaths, and recovery rates
-  
+* Dataset: https://www.kaggle.com/datasets/imdevskp/corona-virus-report (country_wise_latest.csv)
+
 🎯 Key Insights
 * Top 10 Countries Analysis: Identified countries with highest death rates, recovery rates, and active cases
 * Growth Analysis: Examined weekly growth patterns and trends
@@ -24,5 +25,21 @@
 * Bar charts for top-performing countries in various categories
 * Comparative analysis of death rates vs recovery rates by country
 
-# Dataset 
-https://www.kaggle.com/datasets/imdevskp/corona-virus-report
+# Technical Skills Demonstrated
+* Data Manipulation: Pandas for data cleaning and transformation
+* Statistical Analysis: Rate calculations, correlation analysis, descriptive statistics
+* Data Visualization: Seaborn and Matplotlib for creating informative charts
+* Data Quality: Handling duplicates, missing values, and data validation
+
+# Tools & Technologies
+* Python (Pandas, Seaborn, Matplotlib)
+* Jupyter Notebook for interactive analysis
+* Statistical Analysis and data modeling
+* Data Visualization and dashboard creation
+
+# Business Impact
+* This analysis provides valuable insights for:
+* Public Health Officials: Understanding global pandemic patterns
+* Policy Makers: Identifying countries with successful recovery strategies
+* Healthcare Organizations: Resource allocation and planning
+* General Public: Data-driven understanding of COVID-19 impact
