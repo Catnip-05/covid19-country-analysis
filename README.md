@@ -43,3 +43,7 @@
 * Policy Makers: Identifying countries with successful recovery strategies
 * Healthcare Organizations: Resource allocation and planning
 * General Public: Data-driven understanding of COVID-19 impact
+
+## Deliverables
+* Interactive Jupyter notebook with complete analysis
+* Statistical summaries and key findings
