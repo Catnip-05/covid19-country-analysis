@@ -1,7 +1,7 @@
 # Covid-19 Country Analysis
 
 # Project Overview
-* A comprehensive data analysis project examining global COVID-19 pandemic statistics across 187 countries. This project demonstrates data cleaning, exploratory data analysis, statistical modeling, and data visualization skills using Python, Pandas, and Seaborn.
+* A comprehensive data analysis project examining global COVID-19 pandemic statistics across 187 countries. This project demonstrates data cleaning, exploratory data analysis, statistical modeling, and data visualization skills using Python, Matplotlib, Pandas, and Seaborn.
   
 # Key Features & Analysis
 📊 Data Processing & Quality
